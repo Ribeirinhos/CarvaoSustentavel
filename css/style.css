@@ -329,7 +329,7 @@ a:focus {
   overflow: hidden;
   -webkit-transition: all .1s;
   transition: all .1s;
-  background-color:rgb(237, 236, 238);
+  background-color:rgb(238, 237, 236);
 }
 
 .service_section .service_container .box .img-box {
@@ -460,10 +460,10 @@ a:focus {
 }
 
 .blog_section .box {
-  margin-top: 55px;
+  margin-top: 20px;
   background-color: #ffffff;
-  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
-          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 0 100px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 100px 0 rgba(0, 0, 0, 0.15);
 }
 
 .blog_section .box .img-box {
